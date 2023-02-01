@@ -1,0 +1,116 @@
+/* * { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: var(--color_black);
+    color: white;
+}
+
+nav {
+    margin-top: 0;
+}
+
+ul a {
+    text-decoration: none;
+    color: var(--color_white);
+}
+
+.contain_li ul {
+    /* width: 40%; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.contain_li ul a li {
+    margin-left: 20px;
+    margin-top: 30px;
+    list-style: none;
+    padding: 5px;
+    border-top-right-radius: 5px;
+    transition: all .2s;
+}
+
+.contain_li ul a li:hover {
+    transition: all .2s;
+    background-color: white;
+    color: var(--color_black);
+}
+
+
+h1 {
+    margin-top: 50px;
+    color: var(--color_white);
+    text-decoration: overline;
+}
+
+.boot {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 34px;
+}
+
+.boot_img {
+    width: 90%;
+    margin: 0 20px;
+}
+
+.contain_li {
+    display: flex;
+    justify-content: center;
+}
+
+
+.tt_boot {
+    margin: 36px;
+
+    margin-top: 86px;
+}
+
+.boot p {
+    width: 100%;
+    margin-right: 10px;
+}
+
+.cont {
+    display: grid;
+    grid-template-areas:
+        "a b"
+        "c d";
+    gap: 21px 60px;
+}
+
+.p2 {
+    grid-area: d;
+    width: 50%;
+}
+
+.gt_img {
+    grid-area: c;
+}
+
+.p1 {
+    grid-area: a;
+    width: 50%;
+}
+
+.imgg {
+    grid-area: b;
+}
+
+.foot {
+    margin-top: 170px;
+}
+
+.burger{
+    top: 0 !important;
+}
