@@ -275,10 +275,6 @@ h3 {
 }
 
 @media screen and (max-width: 1040px) {
-    .face {
-        display: none;
-    }
-
     .moi {
         width: 147%;
     }
@@ -329,7 +325,33 @@ h3 {
   } */
 
 /* responsive navbar */
+.logo {
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    top: 25%;
+    right: 10%;
 
+    /* transition: all linear s; */
+    animation: logo_anim 4s infinite;
+
+}
+
+@keyframes logo_anim {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.logo:hover {
+    animation: none;
+    /* transition: all linear 1s; */
+
+}
 @media screen and (max-width: 948px) {
     nav ul {
         transform: translateX(-300%);
@@ -340,6 +362,10 @@ h3 {
         overflow: hidden;
         transition: all 0.3s ease-out;
         background-color: var(--color_secondary);
+    }
+    .logo{
+        width: 14%;
+        height: 14%;  
     }
 
 
@@ -785,3 +811,4 @@ h5 {
 .myadmin {
     text-align: center;
 }
+

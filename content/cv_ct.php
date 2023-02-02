@@ -1,11 +1,11 @@
-    <h1 id="form" class="formations_title"> Formation</h1>
+    <h1 id="form" class="formations_title"> Formations</h1>
 
     <div class="entete" style="display: flex;">
         <div class="contain_li cv_li ">
             <div class="ul displ_li">
                 <ul class="contain_ul">
                     <a href="#form">
-                        <li>Formation</li>
+                        <li>Formations</li>
                     </a>
                     <a href="#comp">
                         <li>Compétences</li>
