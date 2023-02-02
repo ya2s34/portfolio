@@ -16,18 +16,6 @@
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <link rel="stylesheet" href="../portfolio/style/acc_style.css">
-   <!-- <?php
-        if ($page == 'realisations') : ?>
-     <link rel="stylesheet" href="../portfolio/style/rea_style.css">
-   <?php elseif ($page == 'curriculum_vitae') : ?>
-     <link rel="stylesheet" href="../portfolio/style/rea_style.css">
-
-   <?php elseif ($page == 'accueil') : ?>
-     <link rel="stylesheet" href="../portfolio/style/acc_style.css">
-
-   <?php elseif ($page == 'veilles_technologique') : ?>
-     <link rel="stylesheet" href="../portfolio/style/veilles_style.css">
-   <?php endif; ?> -->
 
    <title>Accueil</title>
  </head>
@@ -78,6 +66,5 @@
 
  <script src="../portfolio/style/main.js"></script>
 
- <!-- <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script> -->
 
  </html>
