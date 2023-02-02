@@ -25,4 +25,3 @@
                 </svg>
             </a>
         </div>
-        </header>

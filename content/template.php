@@ -17,7 +17,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <link rel="stylesheet" href="../portfolio/style/acc_style.css">
    <!-- <?php
-    if ($page == 'realisations') : ?>
+        if ($page == 'realisations') : ?>
      <link rel="stylesheet" href="../portfolio/style/rea_style.css">
    <?php elseif ($page == 'curriculum_vitae') : ?>
      <link rel="stylesheet" href="../portfolio/style/rea_style.css">
@@ -71,8 +71,13 @@
     include '../portfolio/common/footer.php';
 
     ?>
+   <div class="mousemove"></div>
 
  </body>
+ <script src="../portfolio/style/typed.js"></script>
+
  <script src="../portfolio/style/main.js"></script>
+
+ <!-- <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script> -->
 
  </html>

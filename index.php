@@ -4,4 +4,3 @@
     include '../portfolio/content/template.php';
 
     ?>
-
