@@ -227,8 +227,9 @@ h3 {
 
 .photo_moi {
     width: 140px;
-    height: 140px;
+    height: 170px;
     margin: 0 auto;
+    border-radius: 50%;
 }
 
 
@@ -352,6 +353,7 @@ h3 {
     /* transition: all linear 1s; */
 
 }
+
 @media screen and (max-width: 948px) {
     nav ul {
         transform: translateX(-300%);
@@ -363,9 +365,10 @@ h3 {
         transition: all 0.3s ease-out;
         background-color: var(--color_secondary);
     }
-    .logo{
+
+    .logo {
         width: 14%;
-        height: 14%;  
+        height: 14%;
     }
 
 
@@ -804,11 +807,10 @@ h5 {
     }
 }
 
-.workbench  {
+.workbench {
     text-align: center;
 }
 
 .myadmin {
     text-align: center;
 }
-

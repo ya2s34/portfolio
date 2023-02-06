@@ -3,13 +3,16 @@
         <p>A PROPOS</p>
         <h1>Qui suis-je ?</h1>
         <p class="bio">
-            <img class="photo_moi" src="../portfolio/image/photo_generique.png" alt="photo de moi :)">
-        <p class="para_moi">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur autem quod quidem recusandae
-            facilis quo dicta at tempore,
-            earum molestiae obcaecati, reiciendis nulla laboriosam et cumque nostrum optio sint. Facere?
-            earum molestiae obcaecati, reiciendis nulla laboriosam et cumque nostrum optio sint. Facere?
-            earum molestiae obcaecati, reiciendis nulla laboriosam et cumque nostrum optio sint. Facere?
-            </p>
+            <img class="photo_moi" src="../portfolio/image/moi.svg" alt="photo de moi :)">
+        <p class="para_moi">
+            Je suis en formation développeur web et web mobile terminé de niveau bac +2. Avec une expertise en PHP, JavaScript, CSS et HTML, je suis passionné
+            par la création de sites web performants et attractifs. Mon objectif est de développer
+            mes compétences en développement web pour offrir des solutions innovantes.
+            Je suis à la recherche de nouveaux défis et d'opportunités pour mettre mes
+            compétences en développement web au service des entreprises. N'hésitez pas à me
+            contacter pour discuter de votre vision et de la façon dont je peux vous aider à la réaliser.
+
+        </p>
         </p>
     </div>
 
