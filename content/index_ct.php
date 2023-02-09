@@ -5,7 +5,7 @@
         <p class="bio">
             <img class="photo_moi" src="../portfolio/image/moi.svg" alt="photo de moi :)">
         <p class="para_moi">
-            Je suis en formation développeur web et web mobile terminé de niveau bac +2. Avec une expertise en PHP, JavaScript, CSS et HTML, je suis passionné
+            Je suis en formation développeur web et web mobile de niveau bac +2. Avec une expertise en PHP, JavaScript, CSS et HTML, je suis passionné
             par la création de sites web performants et attractifs. Mon objectif est de développer
             mes compétences en développement web pour offrir des solutions innovantes.
             Je suis à la recherche de nouveaux défis et d'opportunités pour mettre mes
